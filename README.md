@@ -1,2 +1,2 @@
 # Golang
-Golang Projects
+Random Golang Projects and Coding Exercises
